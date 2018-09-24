@@ -1,0 +1,20 @@
+1537773328420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYHP~1\\AppData\\Local\\Temp\\rust_mozprofile.7bD0F6EX0tfq"
+[Parent 16280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537773353433	Marionette	INFO	Listening on port 54332
+1537773353962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537773354358	Marionette	DEBUG	[4294967297] Frame script loaded
+1537773354735	Marionette	DEBUG	[4294967297] Frame script registered
+1537773356429	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537773359021	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537773359109	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537773360651	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000.
+1537773571827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYHP~1\\AppData\\Local\\Temp\\rust_mozprofile.BtMxVu6OjK35"
+1537773581083	Marionette	INFO	Listening on port 54390
+1537773581202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537773581345	Marionette	DEBUG	[6442450945] Frame script loaded
+1537773581367	Marionette	DEBUG	[6442450945] Frame script registered
+1537773581436	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537773581748	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537773581770	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://localhost:8000/
+1537773581946	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://localhost:8000/

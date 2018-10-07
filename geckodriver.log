@@ -539,3 +539,20 @@ console.error: PushService:
 [Child 21352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 20168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [GPU 18868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538953360634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYHP~1\\AppData\\Local\\Temp\\rust_mozprofile.KXyhFyuhcDEy"
+1538953370785	Marionette	INFO	Listening on port 51443
+1538953371160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538953377835	Marionette	DEBUG	[4294967297] Frame script loaded
+1538953377856	Marionette	DEBUG	[4294967297] Frame script registered
+1538953377958	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538953378311	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538953378312	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1538953378342	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://localhost:8000/
+1538953378426	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://localhost:8000/
+1538953379738	Marionette	INFO	Stopped listening on port 51443
+[Child 22812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
